@@ -1,0 +1,2 @@
+# go
+Short-link redirects
